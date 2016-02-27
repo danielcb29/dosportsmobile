@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DoSports</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_login">Login</string>
+
+    <string name="crear_evento"> Crear evento</string>
+    <string name="lista_eventos">Lista de eventos</string>
+    <string name="perfil">Perfil</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+
+    <string name="logo">Logo de la App</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="acceder">Acceder</string>
+    <string name="accesoReg">¿Aún no eres usuario? ¡Regístrate aquí!</string>
+    <string name="nombre">Nombre del evento </string>
+    <string name="apellido1">Primer Apellido: </string>
+    <string name="apellido2">Segundo Apellido: </string>
+    <string name="correo">Correo: </string>
+    <string name="nick">Nick: </string>
+    <string name="pass1">Contraseña: </string>
+    <string name="pass2">Repita Contraseña: </string>
+    <string name="map_logo">map_logo</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="action_menu">Menú</string>
+    <string name="title_activity_principal2">Principal2</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="title_activity_principal">Principal</string>
+
+
+    <string name="nick_registrado">admin</string>
+    <string name="tiempo_reg">(Usuario desde hace 10 años)</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="modificar">Modificar</string>
+    <string name="section_format">%1$d</string>
+</resources>
